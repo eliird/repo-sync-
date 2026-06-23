@@ -39,7 +39,7 @@ st init
 # → auto-populates servers from ~/.ssh/config
 
 # Set your default server
-st servers default SBZ-H100-01
+st servers default <serveer_name>
 
 # Add your repos as submodules
 st submodules add git@github.com:you/project-a.git project-a
